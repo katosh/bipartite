@@ -6,6 +6,18 @@ _ignore/
 AGENTS.md
 .env
 
+# Nexus subrepo and workspace
+nexus/
+work/
+config.yml
+.epic-config.json
+.epic-status.json
+.epic-worklog.md
+.config/
+.claude/
+.jupyter/
+bin/
+
 site/
 ISSUE-*.md
 
