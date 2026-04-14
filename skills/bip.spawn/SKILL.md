@@ -1,6 +1,11 @@
+---
+name: bip.spawn
+description: Spawn a Claude Code agent in a tmux window for a GitHub issue, PR, or ad-hoc task prompt
+---
+
 # /bip.spawn
 
-Open a tmux window for GitHub issue or PR review.
+Spawn a Claude Code agent in a tmux window for a GitHub issue, PR, or ad-hoc task.
 
 ## Instructions
 

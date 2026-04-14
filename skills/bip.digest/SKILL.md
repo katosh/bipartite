@@ -1,3 +1,8 @@
+---
+name: bip.digest
+description: Generate activity digest for a Slack channel from tracked GitHub repos (preview by default, --post to send)
+---
+
 # /bip.digest
 
 Generate activity digest (preview only by default).

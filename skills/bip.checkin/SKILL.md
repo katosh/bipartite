@@ -1,3 +1,8 @@
+---
+name: bip.checkin
+description: Check recent GitHub activity across tracked repos for issues, PRs, and comments needing attention
+---
+
 # /bip.checkin
 
 Check in on recent activity across tracked repos. Shows issues, PRs, and comments that need your attention.

@@ -1,3 +1,8 @@
+---
+name: bip.board
+description: Manage GitHub project boards via bip CLI with sources.yml repo/channel mappings
+---
+
 # /bip.board
 
 Manage GitHub project boards. Boards are resolved automatically from repo → channel → board mappings in sources.yml.

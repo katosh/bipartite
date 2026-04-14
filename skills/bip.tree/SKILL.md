@@ -1,3 +1,8 @@
+---
+name: bip.tree
+description: Generate interactive HTML tree view of beads task hierarchy
+---
+
 # /bip.tree
 
 Generate interactive HTML tree view of beads issues.
